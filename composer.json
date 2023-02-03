@@ -40,7 +40,7 @@
         "laminas/laminas-zendframework-bridge": "^1.0"
     },
     "require-dev": {
-        "laminas-api-tools/api-tools-hal": "^1.4",
+        "oldcodefork/laminas-api-tools-hal": "^1.0",
         "laminas/laminas-coding-standard": "~2.3.0",
         "phpspec/prophecy-phpunit": "^2.0",
         "phpunit/phpunit": "^9.3",
